@@ -90,6 +90,7 @@ const data = names.map(name => {
         username: name.split("").reverse().join("")
     }
 })
+console.log(data)
 console.log(data[0])
 
 const newJuku = {
