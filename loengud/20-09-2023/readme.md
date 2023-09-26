@@ -11,3 +11,5 @@ Mida tähendavad .prettierrc faili conf settingud:
 "trailingComma": "none" - ei luba viimase elemendi järele koma panna
 "arrowParens" - kas sulud peaksid olema noolefunktsiooni parameetrite ümber
 "singleAttributePerLine" - kas JSX-i atribuudid peaksid olema ühel real või igal atribuudil eraldi real
+
+https://github.com/KristelKolkanen/react-page
